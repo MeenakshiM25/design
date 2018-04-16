@@ -28,3 +28,4 @@
    * Proxy                     -
    * Bridge                   - Decouple abstraction from implementation so that those two can vary independently
 http://www.oodesign.com/
+https://dzone.com/articles/design-patterns-bridge
