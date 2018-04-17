@@ -27,5 +27,6 @@
    * Flyweight                - instead of creating many instances of obj that can cause bad design,create stateless object and another                                 object to maintain state of all instances of obj
    * Proxy                     -
    * Bridge                   - Decouple abstraction from implementation so that those two can vary independently
+
 http://www.oodesign.com/
 https://dzone.com/articles/design-patterns-bridge
