@@ -23,7 +23,7 @@
    * Decorator                - attaches additional responsibilites to obj dynamically.
    * Adaptor                  - converts interface of one class to interface of another class reqd by client
    * Facade                   - simplifies an interface.provide unified interface to set of interfaces making it easy for subsystem to                                   be used
-   * Composite                - 
+   * Composite                - compose objects into tree structures to represent part whole hierarchies.enabling clients to treate                                     individual and composition of objects uniformly 
    * Flyweight                - instead of creating many instances of obj that can cause bad design,create stateless object and another                                 object to maintain state of all instances of obj
    * Proxy                     -
    * Bridge                   - Decouple abstraction from implementation so that those two can vary independently
