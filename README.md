@@ -11,7 +11,7 @@
    * Chain Of Responsibility  - have set of objects in the chain.requested is passed to one by one object .object checks if it can                                       handle the request.if so ,handles request otherwise passes control to other objects in the chain
    * Command                  - command encapsulate diff req as object and passes to invoker.invoker doesnt know how to handle it .when                                 it recieves a servce request, passes control to command (command.execute()) and then command passes                                     request to  reciever which handles request
    * Strategy                 - we take changing behavours out and create interface and set of impl and inject those behaviours at                                       runtime using composition
-   * State                    - 
+   * State                    - Allows behavior of object to vary as the state changes.goes well with strategy pattern
    * Observer                 - defines one to many dependencies between objs.when state of obj changes ,it updates dependents                                           dynamically
    * Mediator                 - defines an object that encapsulates how set of objects interact.promotes loose coupling
    * Iterator                 - iterate over set of aggrgate objects (java.lang.iterator)
