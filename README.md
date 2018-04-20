@@ -25,7 +25,7 @@
    * Facade                   - simplifies an interface.provide unified interface to set of interfaces making it easy for subsystem to                                   be used
    * Composite                - compose objects into tree structures to represent part whole hierarchies.enabling clients to treate                                     individual and composition of objects uniformly 
    * Flyweight                - instead of creating many instances of obj that can cause bad design,create stateless object and another                                 object to maintain state of all instances of obj
-   * Proxy                     -
+   * Proxy                     - Use to create a representative object that controls access to another object that may be            remote,expensive to create or need to be secured
    * Bridge                   - Decouple abstraction from implementation so that those two can vary independently
 
 http://www.oodesign.com/
