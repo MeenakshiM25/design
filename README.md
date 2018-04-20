@@ -30,3 +30,18 @@
 
 http://www.oodesign.com/
 https://dzone.com/articles/design-patterns-bridge
+
+OOPS :
+oops basics: 
+Abstraction Encapsulation Polymorphism Inheritance
+oops principles:
+Encapsulate what varies
+Favourite compsition over inheritance
+Strive for loose coupled design
+Open for extension ,closed for modification
+code only to interfaces not for implementation
+Depend on abstraction over concrete classes
+Only talk to your friends - facade
+Dont call us we will call you - dependency injection /template pattern 
+single responsibility
+cohesion -  when a class is designed to have set of related functions
