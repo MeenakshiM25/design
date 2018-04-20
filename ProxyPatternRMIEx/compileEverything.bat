@@ -1,0 +1,1 @@
+javac src/com/tavant/rmiinterface/RMIInterface.java src/com/tavant/rmiserver/ServerOperation.java src/com/tavant/rmiclient/ClientOperation.java
